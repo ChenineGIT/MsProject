@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/table.png</file>
+    <file>icons/teacher.png</file>
+    <file>icons/room.png</file>
+    <file>icons/students.png</file>
+    <file>icons/menu_bl.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/clients_white.png</file>
+    <file>icons/timetable.png</file>
+    <file>icons/report.png</file>
+    <file>icons/left.png</file>
+    <file>icons/home.png</file>
+    <file>icons/scale.png</file>
+    <file>icons/checkbox.ico</file>
+    <file>icons/uncheckedbox.png</file>
+    <file>icons/setting.png</file>
+  </qresource>
+</RCC>

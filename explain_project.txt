@@ -1,0 +1,7 @@
+# Create new project
+# download images to using in interface project
+# build file.qrc  "menu.qrc" to make all images of formal xml
+# convert "menu.qrc" to "icon.py"
+# Create gui "menu.ui" use Qt designe
+#  .........  "main.py" file use python , link to file gui "menu.ui"
+ and import "icon.py" to "main.py" 
